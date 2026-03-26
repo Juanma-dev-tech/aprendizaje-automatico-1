@@ -1,2 +1,4 @@
-# aprendizaje-automatico-1
-Repositorio de la materia Aprendizaje Automático I
+# Aprendizaje Automático I
+
+Repositorio de la materia Aprendizaje Automático I.
+Aquí se subirán las actividades prácticas realizadas durante la cursada.
